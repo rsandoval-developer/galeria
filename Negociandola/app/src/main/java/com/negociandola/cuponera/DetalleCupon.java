@@ -230,6 +230,7 @@ public class DetalleCupon extends AppCompatActivity {
         });
         setupToolbarConfig();
         FirebaseAnalyticsNegociandola.newInstance(this).screenEvent("Detalle Cupon");
+        FirebaseAnalyticsNegociandola.newInstance(this).screenEvent(id);
 
 
     }
