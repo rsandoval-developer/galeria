@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mis_canjes"
+        android:title="@string/mis_canjes"
+        android:orderInCategory="100"
+        >
+    </item>
+
+    <item
+        android:id="@+id/mFacebook"
+        android:title="@string/mFacebook"
+        android:orderInCategory="100"
+        >
+    </item>
+
+    <item
+        android:id="@+id/mWeb"
+        android:title="@string/mWeb"
+        android:orderInCategory="101"
+        >
+    </item>
+    <item
+        android:id="@+id/mCompartirApp"
+        android:title="@string/mCompartirApp"
+        android:orderInCategory="102"
+        >
+    </item>
+    <item
+        android:id="@+id/mCalificanos"
+        android:title="@string/mCalificar"
+        android:orderInCategory="103"
+        >
+    </item>
+    <item
+        android:id="@+id/mSupport"
+        android:title="@string/mSupport"
+        android:orderInCategory="104"
+        >
+    </item>
+    <item
+        android:id="@+id/mAbout"
+        android:title="@string/mAbout"
+        android:orderInCategory="105"
+        >
+    </item>
+
+</menu>

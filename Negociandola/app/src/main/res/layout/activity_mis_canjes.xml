@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_mis_canjes"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp"
+    tools:context="com.negociandola.cuponera.MisCanjesActivity">
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/mis_canjes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="2dp" />
+
+    <TextView
+        android:id="@+id/text_mensaje"
+        android:layout_width="match_parent"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:text="@string/aun_no_has_canjeado_cupones"
+        android:layout_height="match_parent" />
+
+
+</RelativeLayout>

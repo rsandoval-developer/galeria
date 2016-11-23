@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_canjes"
+            android:icon="@drawable/starred_ticket_filled_100"
+            android:title="Mis Canjes" />
+        <item
+            android:id="@+id/nav_compartir_app"
+            android:icon="@drawable/share_96"
+            android:title="Compartir app" />
+        <item
+            android:id="@+id/nav_calificanos"
+            android:icon="@drawable/christmas_star_96"
+            android:title="Califícanos" />
+        <item
+            android:id="@+id/nav_soporte"
+            android:icon="@drawable/help_104"
+            android:title="Soporte" />
+        <item
+            android:id="@+id/nav_acerca_de"
+            android:icon="@drawable/info_104"
+            android:title="Acerca de" />
+    </group>
+
+</menu>

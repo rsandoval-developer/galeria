@@ -1,0 +1,140 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombreCategoria": "Destacados",
+      "cupones": [
+        {
+          "id": 1,
+          "tituloCupon": "20% de descuento en tu primer compra",
+          "imagenCupon": "https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_stfEuIDQAhUnjVQKHcLMASIQjRwIBw&url=https%3A%2F%2Fspalifemasvida.wordpress.com%2Ftag%2Fspa%2F&psig=AFQjCNGNb_OcYdE7yYZE7Cbr25q3L3NjUw&ust=1477845203092154",
+          "nombreNegocio": "Destacados Spa Relax",
+          "vencimiento": "08 / Septiembre / 2016",
+          "folio": "11",
+          "restricciones": "Presenta el folio que aparece en la parte superior de este cupón. Al presentarlo en la tienda podrás obtener el 20% de descuento en tu primer compra, válido de lunes a viernes. Aplica sólo a partir de tu segunda compra",
+          "descripcionNegocio": "Un lugar donde la relajación es parte de tu vida, desde que entras puedes disfrutar cada momento",
+          "horarioNegocio": "Lunes a viernes de 9:00 a 19:00 y Sábado de 10:00 a 13:00",
+          "direccionNegocio": "Av Francisco I. Madero Poniente 310, Centro Histórico, Morelia, Mich.",
+          "telefonoNegocio": "4434868752",
+          "isCanjeado": false
+        },
+        {
+          "id": 2,
+          "tituloCupon": "20% de descuento en tu primer compra",
+          "imagenCupon": "https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_stfEuIDQAhUnjVQKHcLMASIQjRwIBw&url=https%3A%2F%2Fspalifemasvida.wordpress.com%2Ftag%2Fspa%2F&psig=AFQjCNGNb_OcYdE7yYZE7Cbr25q3L3NjUw&ust=1477845203092154",
+          "nombreNegocio": "Pecatto",
+          "vencimiento": "08 / Septiembre / 2016",
+          "folio": "12",
+          "restricciones": "Presenta el folio que aparece en la parte superior de este cupón. Al presentarlo en la tienda podrás obtener el 20% de descuento en tu primer compra, válido de lunes a viernes. Aplica sólo a partir de tu segunda compra",
+          "descripcionNegocio": "Un lugar donde la relajación es parte de tu vida, desde que entras puedes disfrutar cada momento",
+          "horarioNegocio": "Lunes a viernes de 9:00 a 19:00 y Sábado de 10:00 a 13:00",
+          "direccionNegocio": "Av Francisco I. Madero Poniente 310, Centro Histórico, Morelia, Mich.",
+          "telefonoNegocio": "4434868752",
+          "isCanjeado": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombreCategoria": "Bares y antros",
+      "cupones": [
+       {
+          "id": 1,
+          "tituloCupon": "20% de descuento en tu primer compra",
+          "imagenCupon": "https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_stfEuIDQAhUnjVQKHcLMASIQjRwIBw&url=https%3A%2F%2Fspalifemasvida.wordpress.com%2Ftag%2Fspa%2F&psig=AFQjCNGNb_OcYdE7yYZE7Cbr25q3L3NjUw&ust=1477845203092154",
+          "nombreNegocio": "Destacados Spa Relax",
+          "vencimiento": "08 / Septiembre / 2016",
+          "folio": "21",
+          "restricciones": "Presenta el folio que aparece en la parte superior de este cupón. Al presentarlo en la tienda podrás obtener el 20% de descuento en tu primer compra, válido de lunes a viernes. Aplica sólo a partir de tu segunda compra",
+          "descripcionNegocio": "Un lugar donde la relajación es parte de tu vida, desde que entras puedes disfrutar cada momento",
+          "horarioNegocio": "Lunes a viernes de 9:00 a 19:00 y Sábado de 10:00 a 13:00",
+          "direccionNegocio": "Av Francisco I. Madero Poniente 310, Centro Histórico, Morelia, Mich.",
+         "telefonoNegocio": "4434868752",
+          "isCanjeado": false
+        },
+        {
+          "id": 2,
+          "tituloCupon": "20% de descuento en tu primer compra",
+          "imagenCupon": "https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_stfEuIDQAhUnjVQKHcLMASIQjRwIBw&url=https%3A%2F%2Fspalifemasvida.wordpress.com%2Ftag%2Fspa%2F&psig=AFQjCNGNb_OcYdE7yYZE7Cbr25q3L3NjUw&ust=1477845203092154",
+          "nombreNegocio": "Pecatto",
+          "vencimiento": "08 / Septiembre / 2016",
+          "folio": "22",
+          "restricciones": "Presenta el folio que aparece en la parte superior de este cupón. Al presentarlo en la tienda podrás obtener el 20% de descuento en tu primer compra, válido de lunes a viernes. Aplica sólo a partir de tu segunda compra",
+          "descripcionNegocio": "Un lugar donde la relajación es parte de tu vida, desde que entras puedes disfrutar cada momento",
+          "horarioNegocio": "Lunes a viernes de 9:00 a 19:00 y Sábado de 10:00 a 13:00",
+          "direccionNegocio": "Av Francisco I. Madero Poniente 310, Centro Histórico, Morelia, Mich.",
+          "telefonoNegocio": "4434868752",
+          "isCanjeado": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombreCategoria": "Comida",
+      "cupones": [
+        {
+          "id": 1,
+          "tituloCupon": "20% de descuento en tu primer compra",
+          "imagenCupon": "https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_stfEuIDQAhUnjVQKHcLMASIQjRwIBw&url=https%3A%2F%2Fspalifemasvida.wordpress.com%2Ftag%2Fspa%2F&psig=AFQjCNGNb_OcYdE7yYZE7Cbr25q3L3NjUw&ust=1477845203092154",
+          "nombreNegocio": "Destacados Spa Relax",
+          "vencimiento": "08 / Septiembre / 2016",
+          "folio": "31",
+          "restricciones": "Presenta el folio que aparece en la parte superior de este cupón. Al presentarlo en la tienda podrás obtener el 20% de descuento en tu primer compra, válido de lunes a viernes. Aplica sólo a partir de tu segunda compra",
+          "descripcionNegocio": "Un lugar donde la relajación es parte de tu vida, desde que entras puedes disfrutar cada momento",
+          "horarioNegocio": "Lunes a viernes de 9:00 a 19:00 y Sábado de 10:00 a 13:00",
+          "direccionNegocio": "Av Francisco I. Madero Poniente 310, Centro Histórico, Morelia, Mich.",
+          "telefonoNegocio": "4434868752",
+          "isCanjeado": false
+        },
+        {
+          "id": 2,
+          "tituloCupon": "20% de descuento en tu primer compra",
+          "imagenCupon": "https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_stfEuIDQAhUnjVQKHcLMASIQjRwIBw&url=https%3A%2F%2Fspalifemasvida.wordpress.com%2Ftag%2Fspa%2F&psig=AFQjCNGNb_OcYdE7yYZE7Cbr25q3L3NjUw&ust=1477845203092154",
+          "nombreNegocio": "Pecatto",
+          "vencimiento": "08 / Septiembre / 2016",
+          "folio": "32",
+          "restricciones": "Presenta el folio que aparece en la parte superior de este cupón. Al presentarlo en la tienda podrás obtener el 20% de descuento en tu primer compra, válido de lunes a viernes. Aplica sólo a partir de tu segunda compra",
+          "descripcionNegocio": "Un lugar donde la relajación es parte de tu vida, desde que entras puedes disfrutar cada momento",
+          "horarioNegocio": "Lunes a viernes de 9:00 a 19:00 y Sábado de 10:00 a 13:00",
+          "direccionNegocio": "Av Francisco I. Madero Poniente 310, Centro Histórico, Morelia, Mich.",
+          "telefonoNegocio": "4434868752",
+          "isCanjeado": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombreCategoria": "Negocio",
+      "cupones": [
+        {
+          "id": 1,
+          "tituloCupon": "20% de descuento en tu primer compra",
+          "imagenCupon": "https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_stfEuIDQAhUnjVQKHcLMASIQjRwIBw&url=https%3A%2F%2Fspalifemasvida.wordpress.com%2Ftag%2Fspa%2F&psig=AFQjCNGNb_OcYdE7yYZE7Cbr25q3L3NjUw&ust=1477845203092154",
+          "nombreNegocio": "Destacados Spa Relax",
+          "vencimiento": "08 / Septiembre / 2016",
+          "folio": "41",
+          "restricciones": "Presenta el folio que aparece en la parte superior de este cupón. Al presentarlo en la tienda podrás obtener el 20% de descuento en tu primer compra, válido de lunes a viernes. Aplica sólo a partir de tu segunda compra",
+          "descripcionNegocio": "Un lugar donde la relajación es parte de tu vida, desde que entras puedes disfrutar cada momento",
+          "horarioNegocio": "Lunes a viernes de 9:00 a 19:00 y Sábado de 10:00 a 13:00",
+          "direccionNegocio": "Av Francisco I. Madero Poniente 310, Centro Histórico, Morelia, Mich.",
+          "telefonoNegocio": "4434868752",
+          "isCanjeado": false
+        },
+        {
+          "id": 2,
+          "tituloCupon": "20% de descuento en tu primer compra",
+          "imagenCupon": "https://www.google.com.mx/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_stfEuIDQAhUnjVQKHcLMASIQjRwIBw&url=https%3A%2F%2Fspalifemasvida.wordpress.com%2Ftag%2Fspa%2F&psig=AFQjCNGNb_OcYdE7yYZE7Cbr25q3L3NjUw&ust=1477845203092154",
+          "nombreNegocio": "Pecatto",
+          "vencimiento": "08 / Septiembre / 2016",
+          "folio": "42",
+          "restricciones": "Presenta el folio que aparece en la parte superior de este cupón. Al presentarlo en la tienda podrás obtener el 20% de descuento en tu primer compra, válido de lunes a viernes. Aplica sólo a partir de tu segunda compra",
+          "descripcionNegocio": "Un lugar donde la relajación es parte de tu vida, desde que entras puedes disfrutar cada momento",
+          "horarioNegocio": "Lunes a viernes de 9:00 a 19:00 y Sábado de 10:00 a 13:00",
+          "direccionNegocio": "Av Francisco I. Madero Poniente 310, Centro Histórico, Morelia, Mich.",
+          "telefonoNegocio": "4434868752",
+          "isCanjeado": false
+        }
+      ]
+    }
+  ]
+}

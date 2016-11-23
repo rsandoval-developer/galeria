@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Negociandola</string>
+    <string name="mAbout">Acerca de</string>
+    <string name="mSupport">Soporte</string>
+    <string name="mCompartirApp">Compartir App</string>
+    <string name="mFacebook">Facebook</string>
+    <string name="mis_canjes">Mis Canjes</string>
+    <string name="mWeb">Sitio web</string>
+    <string name="mCalificar">¡Califícanos!</string>
+    <string name="negocio">Nombre negocio</string>
+    <string name="precio_antes">$500</string>
+    <string name="precio_ahora">$200</string>
+    <string name="titulo_oferta">20% de descuento en tu próxima cita</string>
+    <string name="fol_cupon">Folio: </string>
+    <string name="folio">0704160000</string>
+    <string name="restricciones">Restricciones</string>
+    <string name="texto_restricciones">Presenta el folio promocional que aparece en la parte superior del cupon. Al presentarlo en taquilla obtendrás tu promocion.</string>
+    <string name="descripcion_negocio">Empresa mexicana dedicada a la degustación y experiencia al comer alitas</string>
+    <string name="valido">Este cupón se puede utilizar hasta el </string>
+    <string name="horario_titulo">Horario: </string>
+    <string name="horario">Lunes a viernes de 8:00 a 19:00 y Sábado de 9:00 a 13:00</string>
+    <string name="direccion_titulo">Dirección: </string>
+    <string name="telefono_titulo">Teléfono: </string>
+    <string name="direccion">Calle Allende #125 col. centro C.P: 58000 Morelia, MICH</string>
+    <string name="telefono">4434868752</string>
+    <string name="valido_fecha">08 / Agosto / 2016</string>
+    <string name="acerca_negocio">¿Quiénes somos?</string>
+    <string name="promocion">Promoción</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="soporte">Soporte</string>
+    <string name="cupones">Cupon</string>
+    <string name="version_app">Versión 1.0.3</string>
+    <string name="lema_app">Ahorra en cada compra</string>
+    <string name="acerca_app">Creemos que existe una manera simple de ahorrar en el día a día, y tenemos la visión de convertirnos en la aplicacion que te ayude a ahorrar en cada una de tus compras.</string>
+    <string name="frase_app">Consigue más por menos. Compra inteligente, compra ahorrando.</string>
+    <string name="reportar_error">Reportar un error</string>
+    <string name="pedido_funcion">Pedido de función</string>
+    <string name="tutorial_app">Ayuda</string>
+    <string name="cDestacados">Destacados</string>
+    <string name="cBares">Bares y antros</string>
+    <string name="cEntretenimiento">Entretenimiento</string>
+    <string name="cRopa">Ropa y calzado</string>
+    <string name="cComputacion">Computación</string>
+    <string name="cJoyas">Joyas y relojes</string>
+    <string name="cComida">Comida rápida</string>
+    <string name="cRestaurante">Restaurantes</string>
+    <string name="cCafeteria">Cafeterías</string>
+    <string name="cPostres">Postres</string>
+    <string name="cTiendas">Tiendas</string>
+    <string name="cEjercicio">Ház ejercicio</string>
+    <string name="cSalud">Salud y belleza</string>
+    <string name="cOrganico">Mundo orgánico</string>
+    <string name="imgImagenCupon">imgImagenCupon</string>
+    <string name="action_search">Buscar</string>
+    <string name="submitted">Submitted</string>
+    <string name="canjear">Canjear</string>
+    <string name="aprobar">Aprobar canje</string>
+    <string name="msgAprobado">Ya haz canjeado este cupón</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="aun_no_has_canjeado_cupones">:( Aún no has canjeado cupones.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Lo sentimos, por el momento no contamos con cupones en esta categoría.</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="skip">OMITIR</string>
+    <string name="start">EMPEZAR</string>
+
+    <string name="slide_1_title">¡Bienvenido!</string>
+    <string name="slide_1_desc">Lleva a cualquier lugar en tu bolsillo una cartera llena de cupones de descuentos.</string>
+
+    <string name="slide_2_title">Deslíza</string>
+    <string name="slide_2_desc">Explora entre nuestras categorías simplemente deslizando la pantalla hacia la izquierda o derecha y descubre todos los descuentos que tenemos para ti.</string>
+
+    <string name="slide_3_title">Canjea</string>
+    <string name="slide_3_desc">Selecciona un cupón, acude al negocio y muestra el folio al encargado de la tienda.</string>
+
+    <string name="slide_4_title">Disfruta</string>
+    <string name="slide_4_desc">Creemos que existe una manera simple de ahorrar en el día a día. Cada semana agregamos nuevos cupones, ¡ahorra en cada compra!.</string>
+</resources>

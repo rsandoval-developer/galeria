@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:id="@+id/miActionBar2"
+    android:elevation="@dimen/elevationBar"
+    android:background="@color/colorPrimary"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:id="@+id/btnBack"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_width="wrap_content"
+            android:padding="@dimen/activity_vertical_margin"
+            android:background="@color/colorPrimary"
+            android:src="@drawable/left"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/acerca_de"
+            android:textStyle="bold"
+            android:textSize="@dimen/titulo_app"
+            android:textColor="@color/colorBlanco"
+            android:gravity="center_vertical"
+            android:id="@+id/textView"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+</android.support.v7.widget.Toolbar>

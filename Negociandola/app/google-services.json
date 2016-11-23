@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "342524544776",
+    "firebase_url": "https://negociandola-d511e.firebaseio.com",
+    "project_id": "negociandola-d511e",
+    "storage_bucket": "negociandola-d511e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342524544776:android:6f48bf4882cbf3c3",
+        "android_client_info": {
+          "package_name": "com.negociandola.cuponera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342524544776-ge1c6jh2nebcu6su5is6gejfrmbolpit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPSmm49lgQzTu-jxsUzbEbzKQA4mmR1Wc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

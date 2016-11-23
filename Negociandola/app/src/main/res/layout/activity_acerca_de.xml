@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/about_us"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:textSize="@dimen/titulo_lema"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_gravity="center"
+            android:text="@string/lema_app"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:textSize="@dimen/titulo_detalle_cupon"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_gravity="start"
+            android:text="@string/acerca_app"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/frase"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:textSize="@dimen/titulo_detalle_cupon"
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_gravity="start"
+            android:text="@string/frase_app"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:paddingTop="50dp"
+            android:layout_above="@id/frase"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/facebook"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/facebook_filled_100"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:id="@+id/instagram"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/instagram_old_filled_100"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:id="@+id/twitter"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/twitter_filled_100"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:id="@+id/sitio"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/domain_filled_100"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:textSize="@dimen/titulo_app"
+        android:text="@string/version_app"
+        android:textColor="@color/colorPrimary"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

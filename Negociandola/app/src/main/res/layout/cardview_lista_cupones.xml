@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv_cupones"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/border_cards"
+    android:layout_marginLeft="@dimen/border_cards"
+    android:layout_marginRight="@dimen/border_cards"
+    android:layout_marginBottom="@dimen/border_cards"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="@color/colorBlanco"
+        android:layout_marginBottom="@dimen/marging_bottom_cards"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/cardview_cupon">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="@dimen/heigth_image_card">
+            <ImageView
+                android:id="@+id/imgImagenCupon"
+                android:src="@drawable/spa"
+                android:scaleType="centerCrop"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_marginBottom="@dimen/margin_bottom_text"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimaryText"
+                android:id="@+id/tituloCupon"
+                android:textAlignment="textStart"
+                android:layout_marginRight="@dimen/padding_titulo"
+                android:layout_marginLeft="@dimen/padding_titulo"
+                android:layout_marginTop="@dimen/padding_titulo"
+                android:text="@string/titulo_oferta"
+                android:textSize="@dimen/tituloSize" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_marginTop="@dimen/margin_bottom_text"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/textNombreNegocio"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:layout_width="wrap_content"
+                    android:text="@string/negocio"
+                    android:textStyle="bold"
+                    android:textSize="@dimen/tituloSize"
+                    android:layout_marginLeft="@dimen/padding_titulo"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|bottom" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>

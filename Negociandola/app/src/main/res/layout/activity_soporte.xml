@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.negociandola.cuponera.Soporte">
+    <include android:id="@+id/miActionBar3" layout="@layout/actionbar_soporte"></include>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:id="@+id/btnAyuda"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:background="@color/colorPrimary"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_height="@dimen/ancho_soporte_box"
+                android:gravity="center_horizontal">
+                <ImageView
+                    android:layout_marginTop="@dimen/activity_vertical_margin"
+                    android:layout_width="wrap_content"
+                    android:src="@drawable/help"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_marginTop="@dimen/margin_bottom_text"
+                    android:layout_width="wrap_content"
+                    android:text="@string/tutorial_app"
+                    android:textColor="@color/colorBlanco"
+                    android:textSize="@dimen/titulos_soporte"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/btnBug"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_below="@id/miActionBar3"
+                android:background="@color/colorPrimary"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_height="@dimen/ancho_soporte_box"
+                android:gravity="center_horizontal">
+                <ImageView
+                    android:layout_marginTop="@dimen/activity_vertical_margin"
+                    android:layout_width="wrap_content"
+                    android:src="@drawable/error"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_marginTop="@dimen/margin_bottom_text"
+                    android:layout_width="wrap_content"
+                    android:text="@string/reportar_error"
+                    android:textColor="@color/colorBlanco"
+                    android:textSize="@dimen/titulos_soporte"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btnFuncion"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_below="@id/btnBug"
+                android:background="@color/colorPrimary"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:layout_height="@dimen/ancho_soporte_box"
+                android:gravity="center_horizontal">
+                <ImageView
+                    android:layout_marginTop="@dimen/activity_vertical_margin"
+                    android:layout_width="wrap_content"
+                    android:src="@drawable/plus"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_marginTop="@dimen/margin_bottom_text"
+                    android:layout_width="wrap_content"
+                    android:text="@string/pedido_funcion"
+                    android:textColor="@color/colorBlanco"
+                    android:textSize="@dimen/titulos_soporte"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
