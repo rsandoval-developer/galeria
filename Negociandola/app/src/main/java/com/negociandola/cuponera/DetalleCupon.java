@@ -98,6 +98,7 @@ public class DetalleCupon extends AppCompatActivity {
         tvDireccion.setText(direccion_negocio);
         tvTelefono.setText(telefono_negocio);
 
+
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             Slide slide = new Slide(Gravity.BOTTOM);
             slide.setDuration(600);
